@@ -1,0 +1,3 @@
+current_age = int(input("what is your current age?"))
+age_in_2050 = current_age + 27
+print (f"In 2050, you will be {age_in_2050} years old.")
