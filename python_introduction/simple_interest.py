@@ -1,5 +1,5 @@
 Principle = 1000
 Rate = 0.05
 Time = 3
-Interest = principle * rate * time
-print("Simple Interest is:", interest)
+Interest = Principle * Rate * Time
+print("Simple Interest is:", Interest)
