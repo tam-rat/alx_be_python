@@ -1,5 +1,5 @@
-principle = 1000
-rate = 0.05
-time = 3
-interest = principle * rate * time
+Principle = 1000
+Rate = 0.05
+Time = 3
+Interest = principle * rate * time
 print("Simple Interest is:", interest)
